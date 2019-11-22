@@ -1,0 +1,4 @@
+account_sid = ''
+auth_token = ''
+voice_url = 'https://handler.twilio.com/twiml/EHe7002b6498b8429eece1d12c075ac4f6'
+numbers = +12512610546, +15594619553, +12054984753, +16467688534, +19285175749
